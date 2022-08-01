@@ -1,5 +1,5 @@
 # CourseProject
-记录在校期间的一些课程作业
+记录在校内的一些课程作业
 
 [化工计算过程的模拟](chemical_simulation)
 
