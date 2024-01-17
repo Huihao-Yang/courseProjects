@@ -1,0 +1,234 @@
+0:epoch:99 | loss:0.0007 | MAE:0.0154 | RMSE:0.0258 | RE:1.0000
+0:epoch:199 | loss:0.0005 | MAE:0.0135 | RMSE:0.0225 | RE:1.0000
+0:epoch:299 | loss:0.0004 | MAE:0.0127 | RMSE:0.0205 | RE:1.0000
+0:epoch:399 | loss:0.0004 | MAE:0.0122 | RMSE:0.0193 | RE:1.0000
+0:epoch:499 | loss:0.0003 | MAE:0.0117 | RMSE:0.0183 | RE:1.0000
+0:epoch:599 | loss:0.0003 | MAE:0.0118 | RMSE:0.0180 | RE:1.0000
+0:epoch:699 | loss:0.0003 | MAE:0.0113 | RMSE:0.0171 | RE:1.0000
+0:epoch:799 | loss:0.0003 | MAE:0.0110 | RMSE:0.0167 | RE:1.0000
+0:epoch:899 | loss:0.0002 | MAE:0.0103 | RMSE:0.0155 | RE:1.0000
+0:epoch:999 | loss:0.0002 | MAE:0.0096 | RMSE:0.0143 | RE:0.0000
+1:epoch:99 | loss:0.0006 | MAE:0.0143 | RMSE:0.0254 | RE:1.0000
+1:epoch:199 | loss:0.0004 | MAE:0.0124 | RMSE:0.0210 | RE:1.0000
+1:epoch:299 | loss:0.0004 | MAE:0.0116 | RMSE:0.0194 | RE:1.0000
+1:epoch:399 | loss:0.0005 | MAE:0.0166 | RMSE:0.0232 | RE:1.0000
+1:epoch:499 | loss:0.0003 | MAE:0.0111 | RMSE:0.0173 | RE:1.0000
+1:epoch:599 | loss:0.0002 | MAE:0.0103 | RMSE:0.0155 | RE:1.0000
+1:epoch:699 | loss:0.0002 | MAE:0.0085 | RMSE:0.0130 | RE:0.0016
+1:epoch:799 | loss:0.0001 | MAE:0.0070 | RMSE:0.0113 | RE:0.0016
+1:epoch:899 | loss:0.0001 | MAE:0.0071 | RMSE:0.0111 | RE:0.0016
+1:epoch:999 | loss:0.0001 | MAE:0.0065 | RMSE:0.0099 | RE:0.0016
+2:epoch:99 | loss:0.0007 | MAE:0.0167 | RMSE:0.0274 | RE:1.0000
+2:epoch:199 | loss:0.0006 | MAE:0.0149 | RMSE:0.0243 | RE:1.0000
+2:epoch:299 | loss:0.0005 | MAE:0.0146 | RMSE:0.0228 | RE:1.0000
+2:epoch:399 | loss:0.0004 | MAE:0.0139 | RMSE:0.0210 | RE:1.0000
+2:epoch:499 | loss:0.0004 | MAE:0.0125 | RMSE:0.0189 | RE:1.0000
+2:epoch:599 | loss:0.0002 | MAE:0.0096 | RMSE:0.0152 | RE:1.0000
+2:epoch:699 | loss:0.0002 | MAE:0.0078 | RMSE:0.0130 | RE:1.0000
+2:epoch:799 | loss:0.0001 | MAE:0.0071 | RMSE:0.0117 | RE:0.0032
+2:epoch:899 | loss:0.0001 | MAE:0.0067 | RMSE:0.0108 | RE:0.0032
+2:epoch:999 | loss:0.0001 | MAE:0.0066 | RMSE:0.0102 | RE:0.0032
+3:epoch:99 | loss:0.0007 | MAE:0.0158 | RMSE:0.0269 | RE:1.0000
+3:epoch:199 | loss:0.0006 | MAE:0.0148 | RMSE:0.0239 | RE:1.0000
+3:epoch:299 | loss:0.0005 | MAE:0.0140 | RMSE:0.0219 | RE:1.0000
+3:epoch:399 | loss:0.0004 | MAE:0.0135 | RMSE:0.0208 | RE:1.0000
+3:epoch:499 | loss:0.0004 | MAE:0.0131 | RMSE:0.0199 | RE:1.0000
+3:epoch:599 | loss:0.0004 | MAE:0.0127 | RMSE:0.0190 | RE:1.0000
+3:epoch:699 | loss:0.0003 | MAE:0.0123 | RMSE:0.0182 | RE:1.0000
+3:epoch:799 | loss:0.0003 | MAE:0.0118 | RMSE:0.0172 | RE:1.0000
+3:epoch:899 | loss:0.0003 | MAE:0.0110 | RMSE:0.0160 | RE:0.0016
+3:epoch:999 | loss:0.0002 | MAE:0.0097 | RMSE:0.0140 | RE:0.0016
+4:epoch:99 | loss:0.0009 | MAE:0.0181 | RMSE:0.0294 | RE:1.0000
+4:epoch:199 | loss:0.0007 | MAE:0.0169 | RMSE:0.0269 | RE:1.0000
+4:epoch:299 | loss:0.0006 | MAE:0.0160 | RMSE:0.0246 | RE:1.0000
+4:epoch:399 | loss:0.0005 | MAE:0.0150 | RMSE:0.0222 | RE:1.0000
+4:epoch:499 | loss:0.0004 | MAE:0.0127 | RMSE:0.0195 | RE:1.0000
+4:epoch:599 | loss:0.0003 | MAE:0.0100 | RMSE:0.0163 | RE:1.0000
+4:epoch:699 | loss:0.0002 | MAE:0.0089 | RMSE:0.0147 | RE:1.0000
+4:epoch:799 | loss:0.0002 | MAE:0.0076 | RMSE:0.0127 | RE:1.0000
+4:epoch:899 | loss:0.0001 | MAE:0.0072 | RMSE:0.0117 | RE:0.0016
+4:epoch:999 | loss:0.0001 | MAE:0.0059 | RMSE:0.0100 | RE:0.0016
+5:epoch:99 | loss:0.0008 | MAE:0.0154 | RMSE:0.0275 | RE:1.0000
+5:epoch:199 | loss:0.0006 | MAE:0.0145 | RMSE:0.0243 | RE:1.0000
+5:epoch:299 | loss:0.0005 | MAE:0.0134 | RMSE:0.0219 | RE:1.0000
+5:epoch:399 | loss:0.0004 | MAE:0.0124 | RMSE:0.0203 | RE:1.0000
+5:epoch:499 | loss:0.0004 | MAE:0.0126 | RMSE:0.0198 | RE:1.0000
+5:epoch:599 | loss:0.0004 | MAE:0.0125 | RMSE:0.0190 | RE:1.0000
+5:epoch:699 | loss:0.0002 | MAE:0.0097 | RMSE:0.0155 | RE:1.0000
+5:epoch:799 | loss:0.0002 | MAE:0.0081 | RMSE:0.0134 | RE:1.0000
+5:epoch:899 | loss:0.0002 | MAE:0.0090 | RMSE:0.0135 | RE:0.0016
+5:epoch:999 | loss:0.0001 | MAE:0.0073 | RMSE:0.0114 | RE:0.0032
+6:epoch:99 | loss:0.0008 | MAE:0.0165 | RMSE:0.0279 | RE:1.0000
+6:epoch:199 | loss:0.0006 | MAE:0.0151 | RMSE:0.0244 | RE:1.0000
+6:epoch:299 | loss:0.0005 | MAE:0.0143 | RMSE:0.0219 | RE:1.0000
+6:epoch:399 | loss:0.0004 | MAE:0.0132 | RMSE:0.0197 | RE:1.0000
+6:epoch:499 | loss:0.0003 | MAE:0.0109 | RMSE:0.0169 | RE:1.0000
+6:epoch:599 | loss:0.0002 | MAE:0.0087 | RMSE:0.0139 | RE:0.0016
+6:epoch:699 | loss:0.0001 | MAE:0.0076 | RMSE:0.0120 | RE:0.0016
+6:epoch:799 | loss:0.0001 | MAE:0.0075 | RMSE:0.0113 | RE:0.0000
+6:epoch:899 | loss:0.0001 | MAE:0.0065 | RMSE:0.0098 | RE:0.0000
+6:epoch:999 | loss:0.0001 | MAE:0.0063 | RMSE:0.0092 | RE:0.0000
+7:epoch:99 | loss:0.0007 | MAE:0.0162 | RMSE:0.0268 | RE:1.0000
+7:epoch:199 | loss:0.0006 | MAE:0.0152 | RMSE:0.0242 | RE:1.0000
+7:epoch:299 | loss:0.0005 | MAE:0.0145 | RMSE:0.0221 | RE:1.0000
+7:epoch:399 | loss:0.0004 | MAE:0.0138 | RMSE:0.0208 | RE:1.0000
+7:epoch:499 | loss:0.0004 | MAE:0.0131 | RMSE:0.0197 | RE:1.0000
+7:epoch:599 | loss:0.0003 | MAE:0.0119 | RMSE:0.0180 | RE:1.0000
+7:epoch:699 | loss:0.0003 | MAE:0.0106 | RMSE:0.0159 | RE:1.0000
+7:epoch:799 | loss:0.0002 | MAE:0.0097 | RMSE:0.0144 | RE:0.0016
+7:epoch:899 | loss:0.0002 | MAE:0.0109 | RMSE:0.0151 | RE:0.0016
+7:epoch:999 | loss:0.0001 | MAE:0.0071 | RMSE:0.0110 | RE:0.0016
+8:epoch:99 | loss:0.0007 | MAE:0.0160 | RMSE:0.0267 | RE:1.0000
+8:epoch:199 | loss:0.0006 | MAE:0.0148 | RMSE:0.0240 | RE:1.0000
+8:epoch:299 | loss:0.0005 | MAE:0.0140 | RMSE:0.0216 | RE:1.0000
+8:epoch:399 | loss:0.0004 | MAE:0.0130 | RMSE:0.0198 | RE:1.0000
+8:epoch:499 | loss:0.0003 | MAE:0.0113 | RMSE:0.0175 | RE:1.0000
+8:epoch:599 | loss:0.0002 | MAE:0.0099 | RMSE:0.0155 | RE:1.0000
+8:epoch:699 | loss:0.0002 | MAE:0.0083 | RMSE:0.0133 | RE:0.0016
+8:epoch:799 | loss:0.0002 | MAE:0.0078 | RMSE:0.0125 | RE:0.0016
+8:epoch:899 | loss:0.0001 | MAE:0.0068 | RMSE:0.0109 | RE:0.0032
+9:epoch:99 | loss:0.0007 | MAE:0.0159 | RMSE:0.0260 | RE:1.0000
+9:epoch:199 | loss:0.0005 | MAE:0.0145 | RMSE:0.0228 | RE:1.0000
+9:epoch:299 | loss:0.0004 | MAE:0.0137 | RMSE:0.0204 | RE:1.0000
+9:epoch:399 | loss:0.0004 | MAE:0.0131 | RMSE:0.0189 | RE:1.0000
+9:epoch:499 | loss:0.0003 | MAE:0.0116 | RMSE:0.0167 | RE:0.0000
+9:epoch:599 | loss:0.0003 | MAE:0.0111 | RMSE:0.0160 | RE:0.0000
+9:epoch:699 | loss:0.0004 | MAE:0.0149 | RMSE:0.0193 | RE:0.0000
+9:epoch:799 | loss:0.0001 | MAE:0.0079 | RMSE:0.0115 | RE:0.0016
+re mean: 0.0013mae mean: 0.0083rmse mean: 0.0124
+0:epoch:99 | loss:0.0008 | MAE:0.0207 | RMSE:0.0284 | RE:0.0000
+0:epoch:199 | loss:0.0006 | MAE:0.0189 | RMSE:0.0255 | RE:0.0000
+0:epoch:299 | loss:0.0006 | MAE:0.0179 | RMSE:0.0237 | RE:0.0000
+0:epoch:399 | loss:0.0005 | MAE:0.0174 | RMSE:0.0229 | RE:0.0000
+0:epoch:499 | loss:0.0005 | MAE:0.0170 | RMSE:0.0222 | RE:0.0016
+1:epoch:99 | loss:0.0009 | MAE:0.0203 | RMSE:0.0298 | RE:1.0000
+1:epoch:199 | loss:0.0007 | MAE:0.0185 | RMSE:0.0264 | RE:0.0016
+1:epoch:299 | loss:0.0006 | MAE:0.0176 | RMSE:0.0240 | RE:0.0000
+1:epoch:399 | loss:0.0005 | MAE:0.0169 | RMSE:0.0224 | RE:0.0000
+1:epoch:499 | loss:0.0004 | MAE:0.0163 | RMSE:0.0211 | RE:0.0000
+1:epoch:599 | loss:0.0004 | MAE:0.0158 | RMSE:0.0202 | RE:0.0000
+1:epoch:699 | loss:0.0004 | MAE:0.0155 | RMSE:0.0195 | RE:0.0000
+1:epoch:799 | loss:0.0004 | MAE:0.0151 | RMSE:0.0190 | RE:0.0000
+1:epoch:899 | loss:0.0003 | MAE:0.0148 | RMSE:0.0185 | RE:0.0000
+1:epoch:999 | loss:0.0003 | MAE:0.0145 | RMSE:0.0180 | RE:0.0000
+2:epoch:99 | loss:0.0009 | MAE:0.0207 | RMSE:0.0301 | RE:1.0000
+2:epoch:199 | loss:0.0007 | MAE:0.0185 | RMSE:0.0260 | RE:0.0016
+2:epoch:299 | loss:0.0006 | MAE:0.0176 | RMSE:0.0240 | RE:0.0016
+2:epoch:399 | loss:0.0005 | MAE:0.0170 | RMSE:0.0227 | RE:0.0016
+2:epoch:499 | loss:0.0005 | MAE:0.0166 | RMSE:0.0216 | RE:0.0016
+2:epoch:599 | loss:0.0004 | MAE:0.0162 | RMSE:0.0208 | RE:0.0016
+2:epoch:699 | loss:0.0004 | MAE:0.0158 | RMSE:0.0201 | RE:0.0000
+2:epoch:799 | loss:0.0004 | MAE:0.0155 | RMSE:0.0196 | RE:0.0000
+2:epoch:899 | loss:0.0004 | MAE:0.0152 | RMSE:0.0191 | RE:0.0000
+2:epoch:999 | loss:0.0003 | MAE:0.0149 | RMSE:0.0186 | RE:0.0000
+3:epoch:99 | loss:0.0008 | MAE:0.0198 | RMSE:0.0276 | RE:0.0000
+3:epoch:199 | loss:0.0006 | MAE:0.0183 | RMSE:0.0248 | RE:0.0000
+3:epoch:299 | loss:0.0005 | MAE:0.0174 | RMSE:0.0233 | RE:0.0000
+3:epoch:399 | loss:0.0005 | MAE:0.0169 | RMSE:0.0223 | RE:0.0000
+3:epoch:499 | loss:0.0005 | MAE:0.0164 | RMSE:0.0214 | RE:0.0000
+3:epoch:599 | loss:0.0004 | MAE:0.0164 | RMSE:0.0210 | RE:0.0000
+3:epoch:699 | loss:0.0004 | MAE:0.0157 | RMSE:0.0201 | RE:0.0000
+3:epoch:799 | loss:0.0004 | MAE:0.0153 | RMSE:0.0195 | RE:0.0000
+3:epoch:899 | loss:0.0004 | MAE:0.0149 | RMSE:0.0190 | RE:0.0000
+3:epoch:999 | loss:0.0003 | MAE:0.0146 | RMSE:0.0184 | RE:0.0000
+4:epoch:99 | loss:0.0009 | MAE:0.0206 | RMSE:0.0302 | RE:1.0000
+4:epoch:199 | loss:0.0007 | MAE:0.0188 | RMSE:0.0272 | RE:1.0000
+4:epoch:299 | loss:0.0007 | MAE:0.0180 | RMSE:0.0256 | RE:0.0000
+4:epoch:399 | loss:0.0006 | MAE:0.0175 | RMSE:0.0244 | RE:0.0000
+4:epoch:499 | loss:0.0005 | MAE:0.0171 | RMSE:0.0234 | RE:0.0000
+4:epoch:599 | loss:0.0005 | MAE:0.0168 | RMSE:0.0224 | RE:0.0000
+4:epoch:699 | loss:0.0005 | MAE:0.0164 | RMSE:0.0216 | RE:0.0000
+4:epoch:799 | loss:0.0004 | MAE:0.0161 | RMSE:0.0209 | RE:0.0000
+4:epoch:899 | loss:0.0004 | MAE:0.0158 | RMSE:0.0203 | RE:0.0000
+4:epoch:999 | loss:0.0004 | MAE:0.0155 | RMSE:0.0197 | RE:0.0000
+5:epoch:99 | loss:0.0008 | MAE:0.0206 | RMSE:0.0286 | RE:0.0016
+5:epoch:199 | loss:0.0007 | MAE:0.0191 | RMSE:0.0260 | RE:0.0016
+5:epoch:299 | loss:0.0006 | MAE:0.0179 | RMSE:0.0240 | RE:0.0016
+5:epoch:399 | loss:0.0005 | MAE:0.0173 | RMSE:0.0230 | RE:0.0016
+5:epoch:499 | loss:0.0005 | MAE:0.0169 | RMSE:0.0220 | RE:0.0000
+5:epoch:599 | loss:0.0004 | MAE:0.0164 | RMSE:0.0211 | RE:0.0000
+5:epoch:699 | loss:0.0004 | MAE:0.0160 | RMSE:0.0204 | RE:0.0000
+5:epoch:799 | loss:0.0004 | MAE:0.0157 | RMSE:0.0198 | RE:0.0000
+5:epoch:899 | loss:0.0004 | MAE:0.0153 | RMSE:0.0193 | RE:0.0000
+5:epoch:999 | loss:0.0004 | MAE:0.0150 | RMSE:0.0188 | RE:0.0000
+6:epoch:99 | loss:0.0008 | MAE:0.0201 | RMSE:0.0284 | RE:0.0016
+6:epoch:199 | loss:0.0006 | MAE:0.0184 | RMSE:0.0253 | RE:0.0016
+6:epoch:299 | loss:0.0006 | MAE:0.0176 | RMSE:0.0235 | RE:0.0000
+6:epoch:399 | loss:0.0005 | MAE:0.0170 | RMSE:0.0222 | RE:0.0000
+6:epoch:499 | loss:0.0005 | MAE:0.0165 | RMSE:0.0213 | RE:0.0000
+6:epoch:599 | loss:0.0004 | MAE:0.0162 | RMSE:0.0206 | RE:0.0000
+6:epoch:699 | loss:0.0004 | MAE:0.0158 | RMSE:0.0200 | RE:0.0000
+6:epoch:799 | loss:0.0004 | MAE:0.0155 | RMSE:0.0195 | RE:0.0000
+6:epoch:899 | loss:0.0004 | MAE:0.0151 | RMSE:0.0190 | RE:0.0000
+6:epoch:999 | loss:0.0003 | MAE:0.0148 | RMSE:0.0185 | RE:0.0000
+7:epoch:99 | loss:0.0009 | MAE:0.0200 | RMSE:0.0294 | RE:1.0000
+7:epoch:199 | loss:0.0007 | MAE:0.0184 | RMSE:0.0266 | RE:0.0016
+7:epoch:299 | loss:0.0006 | MAE:0.0177 | RMSE:0.0249 | RE:0.0016
+7:epoch:399 | loss:0.0006 | MAE:0.0172 | RMSE:0.0236 | RE:0.0016
+7:epoch:499 | loss:0.0005 | MAE:0.0168 | RMSE:0.0226 | RE:0.0000
+7:epoch:599 | loss:0.0005 | MAE:0.0165 | RMSE:0.0218 | RE:0.0000
+7:epoch:699 | loss:0.0004 | MAE:0.0162 | RMSE:0.0211 | RE:0.0000
+7:epoch:799 | loss:0.0004 | MAE:0.0159 | RMSE:0.0204 | RE:0.0000
+7:epoch:899 | loss:0.0004 | MAE:0.0156 | RMSE:0.0199 | RE:0.0000
+7:epoch:999 | loss:0.0004 | MAE:0.0152 | RMSE:0.0193 | RE:0.0000
+8:epoch:99 | loss:0.0009 | MAE:0.0215 | RMSE:0.0307 | RE:1.0000
+8:epoch:199 | loss:0.0007 | MAE:0.0193 | RMSE:0.0274 | RE:0.0016
+8:epoch:299 | loss:0.0007 | MAE:0.0186 | RMSE:0.0259 | RE:0.0016
+8:epoch:399 | loss:0.0006 | MAE:0.0180 | RMSE:0.0246 | RE:0.0016
+8:epoch:499 | loss:0.0006 | MAE:0.0175 | RMSE:0.0237 | RE:0.0016
+8:epoch:599 | loss:0.0005 | MAE:0.0170 | RMSE:0.0228 | RE:0.0016
+8:epoch:699 | loss:0.0005 | MAE:0.0167 | RMSE:0.0220 | RE:0.0016
+8:epoch:799 | loss:0.0005 | MAE:0.0164 | RMSE:0.0213 | RE:0.0016
+8:epoch:899 | loss:0.0004 | MAE:0.0161 | RMSE:0.0207 | RE:0.0016
+8:epoch:999 | loss:0.0004 | MAE:0.0157 | RMSE:0.0201 | RE:0.0016
+9:epoch:99 | loss:0.0008 | MAE:0.0204 | RMSE:0.0290 | RE:0.0016
+9:epoch:199 | loss:0.0007 | MAE:0.0187 | RMSE:0.0257 | RE:0.0016
+9:epoch:299 | loss:0.0006 | MAE:0.0178 | RMSE:0.0238 | RE:0.0016
+9:epoch:399 | loss:0.0005 | MAE:0.0172 | RMSE:0.0225 | RE:0.0016
+9:epoch:499 | loss:0.0005 | MAE:0.0166 | RMSE:0.0215 | RE:0.0016
+9:epoch:599 | loss:0.0004 | MAE:0.0161 | RMSE:0.0207 | RE:0.0016
+9:epoch:699 | loss:0.0004 | MAE:0.0157 | RMSE:0.0200 | RE:0.0016
+9:epoch:799 | loss:0.0004 | MAE:0.0154 | RMSE:0.0195 | RE:0.0000
+9:epoch:899 | loss:0.0004 | MAE:0.0150 | RMSE:0.0189 | RE:0.0000
+9:epoch:999 | loss:0.0003 | MAE:0.0146 | RMSE:0.0184 | RE:0.0000
+re mean: 0.0002mae mean: 0.0152rmse mean: 0.0193
+RNN:re mean: 0.0000RNN:mae mean: 0.0148RNN:rmse mean: 0.0185
+GRU:re mean: 0.0000GRU:mae mean: 0.0093GRU:rmse mean: 0.0132
+LSTM:re mean: 0.0000LSTM:mae mean: 0.0063LSTM:rmse mean: 0.0092
+
+GRU-0:re mean: 0.0000GRU-0:mae mean: 0.0093GRU-0:rmse mean: 0.0132
+LSTM-0:re mean: 0.0000LSTM-0:mae mean: 0.0063LSTM-0:rmse mean: 0.0092
+RNN-0:re mean: 0.0000RNN-0:mae mean: 0.0148RNN-0:rmse mean: 0.0185
+GRU-0.2:re mean: 0.0000GRU-0.2:mae mean: 0.0093GRU-0.2:rmse mean: 0.0132
+LSTM-0.2:re mean: 0.0000LSTM-0.2:mae mean: 0.0063LSTM-0.2:rmse mean: 0.0092
+RNN-0.2:re mean: 0.0000RNN-0.2:mae mean: 0.0148RNN-0.2:rmse mean: 0.0185
+GRU-0.4:re mean: 0.0000GRU-0.4:mae mean: 0.0093GRU-0.4:rmse mean: 0.0132
+LSTM-0.4:re mean: 0.0000LSTM-0.4:mae mean: 0.0063LSTM-0.4:rmse mean: 0.0092
+RNN-0.4:re mean: 0.0000RNN-0.4:mae mean: 0.0148RNN-0.4:rmse mean: 0.0185
+RNN-0:re mean: 0.0000RNN-0:mae mean: 0.0148RNN-0:rmse mean: 0.0185
+LSTM-0:re mean: 0.0000LSTM-0:mae mean: 0.0063LSTM-0:rmse mean: 0.0092
+GRU-0:re mean: 0.0000GRU-0:mae mean: 0.0093GRU-0:rmse mean: 0.0132
+RNN-0.2:re mean: 0.0000RNN-0.2:mae mean: 0.0148RNN-0.2:rmse mean: 0.0185
+LSTM-0.2:re mean: 0.0000LSTM-0.2:mae mean: 0.0063LSTM-0.2:rmse mean: 0.0092
+GRU-0.2:re mean: 0.0000GRU-0.2:mae mean: 0.0093GRU-0.2:rmse mean: 0.0132
+RNN-0.4:re mean: 0.0000RNN-0.4:mae mean: 0.0148RNN-0.4:rmse mean: 0.0185
+LSTM-0.4:re mean: 0.0000LSTM-0.4:mae mean: 0.0063LSTM-0.4:rmse mean: 0.0092
+GRU-0.4:re mean: 0.0000GRU-0.4:mae mean: 0.0093GRU-0.4:rmse mean: 0.0132
+LSTM-0:mae mean: 0.0196LSTM-0:rmse mean: 0.0313
+GRU-0:mae mean: 0.0312GRU-0:rmse mean: 0.0390
+RNN-0:mae mean: 0.0274RNN-0:rmse mean: 0.0414
+LSTM-0.2:mae mean: 0.0137LSTM-0.2:rmse mean: 0.0187
+GRU-0.2:mae mean: 0.0362GRU-0.2:rmse mean: 0.0407
+RNN-0.2:mae mean: 0.0193RNN-0.2:rmse mean: 0.0246
+LSTM-0.4:mae mean: 0.0154LSTM-0.4:rmse mean: 0.0207
+RNN-0.4:mae mean: 0.0208RNN-0.4:rmse mean: 0.0262
+GRU-0.4:mae mean: 0.0386GRU-0.4:rmse mean: 0.0422
+RNN2000-0:mae mean: 0.0261RNN2000-0:rmse mean: 0.0391
+GRU2000-0:mae mean: 0.0312GRU2000-0:rmse mean: 0.0390
+LSTM2000-0:mae mean: 0.0199LSTM2000-0:rmse mean: 0.0304
+RNN2000-0.2:mae mean: 0.0188RNN2000-0.2:rmse mean: 0.0237
+GRU2000-0.2:mae mean: 0.0362GRU2000-0.2:rmse mean: 0.0407
+LSTM2000-0.2:mae mean: 0.0135LSTM2000-0.2:rmse mean: 0.0186
+RNN2000-0.4:mae mean: 0.0199RNN2000-0.4:rmse mean: 0.0248
+GRU2000-0.4:mae mean: 0.0386GRU2000-0.4:rmse mean: 0.0422
+LSTM2000-0.4:mae mean: 0.0153LSTM2000-0.4:rmse mean: 0.0209
