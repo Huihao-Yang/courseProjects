@@ -6,3 +6,5 @@
 [邮件客户端](email_client)
 
 [白葡萄酒质量的预测](whitewine_predict)
+
+[锂离子电池剩余使用寿命预测](RUL_prediction)
